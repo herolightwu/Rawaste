@@ -1,0 +1,231 @@
+<resources>
+    <string name="app_name">Rawaste</string>
+    <string name="app_name_cap">RAWASTE</string>
+
+    <!--error-->
+    <string name="input_email" translatable="false">Please input Email</string>
+    <string name="invalid_email" translatable="false">Invalid Email</string>
+    <string name="input_country" translatable="false">Please select Country</string>
+    <string name="input_city" translatable="false">Please input City</string>
+    <string name="input_firstname" translatable="false">Please input Firstname</string>
+    <string name="input_lastname" translatable="false">Please input Lastname</string>
+    <string name="input_password" translatable="false">Please input Password</string>
+    <string name="incorrect_confirm_password" translatable="false">Incorrect confirm Password</string>
+    <string name="input_phone_number" translatable="false">Please input Phone Number</string>
+    <string name="accept_terms_conditions">Please accept terms and conditions</string>
+    <string name="input_product_name" translatable="false">Please input Product Name</string>
+    <string name="input_description" translatable="false">Please input Description</string>
+    <string name="select_price" translatable="false">Please select Price</string>
+    <string name="input_price" translatable="false">Please input Price</string>
+    <string name="add_image" translatable="false">Please add Image</string>
+    <string name="input_apartment" translatable="false">Please input Apartment/Building Name</string>
+    <string name="input_street" translatable="false">Please input Street Address</string>
+    <string name="input_pincode" translatable="false">Please input Pincode</string>
+
+    <string name="your_product" translatable="false">This product is posted by you</string>
+    <string name="favorite_already_added" translatable="false">This product was already added</string>
+    <string name="favorite_success" translatable="false">Success</string>
+    <string name="product_deleted" translatable="false">This product was deleted by seller</string>
+    <string name="subscribe_already_added" translatable="false">This user was already added</string>
+    <string name="subscribe_success" translatable="false">Success</string>
+    <string name="cart_already_added" translatable="false">This product was already added</string>
+    <string name="cart_success" translatable="false">Success</string>
+
+
+    <!--login-->
+    <string name="email">Email</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password" translatable="false">Confirm Password</string>
+    <string name="remember_password">Remember Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_facebook" translatable="false">Sign In with Facebook</string>
+    <string name="sign_in_google" translatable="false">Sign In with Google</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or" translatable="false">or</string>
+    <string name="dont_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!--signup-->
+    <string name="register_account">Register Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="duns">DUNS</string>
+    <string name="activity_area">Activity Area</string>
+    <string name="waste_type">Type of main waste</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="accept_the" translatable="false">Accept The</string>
+    <string name="terms_and_conditions">Terms And Conditions</string>
+    <string name="register_now">Register</string>
+    <string name="register_facebook" translatable="false">Register With Facebook</string>
+    <string name="register_google" translatable="false">Register with Google</string>
+
+    <!--home-->
+    <string name="welcome">Welcome</string>
+    <string name="message">Message</string>
+    <string name="my_announcements">My Announcements</string>
+    <string name="registered_products">Registered Products</string>
+    <string name="sales_purchases">Sales/Purchases</string>
+    <string name="rawaste_bonuschain" translatable="false">Rawaste Bonuschain</string>
+    <string name="customer_services">Customer Services</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="searching_for" translatable="false">searching for..</string>
+    <string name="recommended_seller" translatable="false">Recommended Sellers</string>
+    <string name="up_to_20_off" translatable="false">Up to 20% off</string>
+    <string name="recent_browse" translatable="false">Recent Browse</string>
+    <string name="up_to_10_off" translatable="false">Up to 10% off</string>
+    <string name="advanced">Advanced</string>
+    <string name="filter">Filter</string>
+    <string name="name_waste">Name of the waste / Raw Product</string>
+    <string name="advanced_search">Advanced  Search</string>
+    <string name="city_name">City name</string>
+    <string name="country_city">Country, City</string>
+    <string name="waste" translatable="false">Waste</string>
+    <string name="type_waste">Type of waste</string>
+    <string name="product">Product</string>
+
+    <!--product item-->
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="buy">Buy</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="save" translatable="false">Save</string>
+
+    <!--product-->
+    <string name="cost">Cost</string>
+    <string name="price">Price</string>
+    <string name="free">Free</string>
+    <string name="paid">Paid</string>
+    <string name="bonuschain" translatable="false">Bonuschain</string>
+    <string name="description">Description</string>
+    <string name="more" translatable="false">More</string>
+    <string name="less" translatable="false">Less</string>
+    <string name="delivery_information">Delivery Information</string>
+    <string name="product_recovered">Product to be recovered</string>
+    <string name="product_shipped">Products shipped to the buyer</string>
+    <string name="sold_by">Sold By</string>
+    <string name="positive_feedbacks" translatable="false">Positive Feedbacks</string>
+    <string name="items">Items</string>
+    <string name="evaluation" translatable="false">Evaluation</string>
+    <string name="view_profile">View Profile</string>
+    <string name="report_seller">Report Seller</string>
+    <string name="order_now">Order Now</string>
+    <string name="contact_seller">Contact the Seller</string>
+    <string name="cart" translatable="false">Cart</string>
+    <string name="add" translatable="false">Add</string>
+
+    <!--contact seller-->
+    <string name="make_offer">Make an offer</string>
+    <string name="euro" translatable="false">Euro</string>
+    <string name="ask_about_product">Ask about the product.</string>
+
+    <!--checkout-->
+    <string name="checkout">Checkout</string>
+    <string name="cancel">cancel</string>
+    <string name="address">Address</string>
+    <string name="payment">Payment</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="order_number">Order Number</string>
+    <string name="shipping_charges">Shipping Charges</string>
+    <string name="packing_charges">Packing Charges</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="continue_btn">Continue</string>
+
+    <!--address-->
+    <string name="save_this">Save this for future usage</string>
+    <string name="apartment_building_name">Apartment / Building Name</string>
+    <string name="street_address" translatable="false">Street Address</string>
+    <string name="country_">Country</string>
+    <string name="pincode">Pincode</string>
+
+    <!--payment-->
+    <string name="saved_card" translatable="false">Saved Cards</string>
+    <string name="credit_debit_card" translatable="false">Credits/Debit Cards</string>
+    <string name="paypal" translatable="false">Paypal</string>
+    <string name="ethereum" translatable="false">Ethereum</string>
+    <string name="bitcoin" translatable="false">Bitcoin</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="wallet" translatable="false">Wallet</string>
+    <string name="balance" translatable="false">Balance</string>
+    <string name="send" translatable="false">Send</string>
+    <string name="receive">Receive</string>
+    <string name="amount">Amount (ETH)</string>
+    <string name="eth_address">Address</string>
+
+    <!--cart item-->
+    <string name="remove">Remove</string>
+
+    <!--my orders-->
+    <string name="my_orders">My Orders</string>
+    <string name="order_date">Order Date :</string>
+    <string name="order_id">Order ID :</string>
+    <string name="return_replacement">Return or Replacement</string>
+    <string name="cancel_order">Cancel order</string>
+    <string name="write_reason">write the reason for</string>
+    <string name="confirm">Confirm</string>
+
+    <!--favorite-->
+    <string name="my_favorites" translatable="false">My  Favorites</string>
+
+    <!--message-->
+    <string name="messages">Messages</string>
+    <string name="notifications">Notifications</string>
+    <string name="delete">Delete</string>
+
+
+    <!--announcement-->
+    <string name="product_name">Product Name</string>
+    <string name="interested_exchange">I am interested in an Exchange</string>
+    <string name="national" translatable="false">National</string>
+    <string name="post">Post</string>
+    <string name="modify">Modify</string>
+
+    <!--sales purchase-->
+    <string name="shipping_address">Shipping Address</string>
+    <string name="print">Print</string>
+    <string name="visit_product">Visit Product</string>
+    <string name="sales_purchase">Sales Purchase</string>
+    <string name="sales">Sales</string>
+    <string name="purchases">Purchases</string>
+    <string name="sold_on">Sold On:</string>
+    <string name="ordered" translatable="false">Ordered:</string>
+
+    <!--profile-->
+    <string name="profile">Profile</string>
+    <string name="my_information">My Information</string>
+    <string name="subscribers_subscriptions">Subscribers/Subscriptions</string>
+    <string name="about_rawaste">About Rawaste</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="notify">Notify</string>
+
+    <!--subscriber-->
+    <string name="subscribers">Subscribers</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="unsusbscribe">Unsusbscribe</string>
+
+    <!--bonuschain-->
+    <string name="transactions">Transactions</string>
+
+
+    <!--location-->
+    <string name="location">Location</string>
+    <string name="near_you" translatable="false">Near You</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_location" translatable="false">Map</string>
+
+    <string name="facebook_app_id" translatable="false">351595908755932</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb351595908755932</string>
+
+    <!--In app-->
+    <string name="const_individual">Individual</string>
+    <string name="const_company" translatable="false">Company</string>
+
+    <string name="about_us" translatable="false">
+        Who are we?\n\n
+        In 2019, the birth of Rawaste responds to a way of responding to the problem of our society on our ways of living and consuming in full change. In a context where the waste of our resources increases while our resources are finished.\n\n
+        Rawaste is the incarnation of a new ambition to create a virtuous circle, respectful of the ecology. Through the exchanges this could create opportunities for many individuals and entrepreneurs. Rawaste plays a role in environmental transition and the circular economy at all levels.\n\n
+        For this reason, the heart of our company\'s commitments takes its essence in the major issues of our society, namely respect for our environment in order to achieve the objectives of preserving and respecting our planet and what it contains.
+    </string>
+</resources>

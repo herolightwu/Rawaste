@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:id="@+id/layout_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="15dp"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="10dp"
+        android:background="@drawable/chat_other"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/img_avata"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:src="@mipmap/avata"/>
+            <TextView
+                android:id="@+id/txt_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="Jacob Gibson"
+                android:textSize="9dp"
+                android:textColor="#4B4B4B"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/txt_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:text="How can I forgot you. You are such a wonderful Person I was just asking Helana About you."
+            android:textColor="#6B6B6B"
+            android:textSize="8dp"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/txt_time"
+        android:layout_width="wrap_content"
+        android:layout_height="15dp"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="20dp"
+        android:textSize="6dp"
+        android:textColor="#6B6B6B"
+        android:text="5 mins ago"/>
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_parent"
+    android:layout_marginHorizontal="20dp"
+    android:layout_marginTop="20dp"
+    android:orientation="horizontal"
+    android:background="@android:color/transparent">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_photo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@mipmap/avata"/>
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:textColor="#3C3C3C"
+        android:textSize="17dp"
+        android:text="Alan Munger"/>
+    <Button
+        android:id="@+id/btn_unsubscribe"
+        android:layout_width="90dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center_vertical"
+        android:background="@mipmap/btn_background_3"
+        android:text="@string/unsusbscribe"
+        android:textColor="#FFFFFF"
+        android:textSize="8dp"
+        android:textAllCaps="false"/>
+</LinearLayout>

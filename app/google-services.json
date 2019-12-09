@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490708378567",
+    "firebase_url": "https://rawaste-226112.firebaseio.com",
+    "project_id": "rawaste-226112",
+    "storage_bucket": "rawaste-226112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490708378567:android:4929d87a898b352c",
+        "android_client_info": {
+          "package_name": "com.odelan.yang.rawaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490708378567-chdr31nm82kmehtb5aehknk8sj05bh0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odelan.yang.rawaste",
+            "certificate_hash": "697a1e887919c2a86df0b5d98109e8ef74398d96"
+          }
+        },
+        {
+          "client_id": "490708378567-15hnc1r7sukhsg92phag46gq2e6fknlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9dP_Piib1_yeGhEVGRu0uBt1QTxOlCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490708378567-15hnc1r7sukhsg92phag46gq2e6fknlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
